@@ -1,1 +1,30 @@
+# PROJECT-The big maket sale dataset
+we used this dataset for quantitative and grphical analysis
+
+# # Getting data from kaggle
+Kaggle is an online community of data scientists and machine learning practioners offering machine learning competitions, public data paltform and cloud based workbench for data science and artificial intelligence education.
+
+# Data Visualisation 
+It is the representation of data in graphical form so that it is more interactable 
+The library used 
+
+<br>Matplotlib
+<br>It can be imported as:
+
+<br>*import matplotlib.pyplot*
+
+# Data Preprocessing
+It is the technique to transfer raw data into a useful and efficient format.
+<br>The libraries used for this were:
+<br>1)Numpy
+<br>2)Pandas
+ 
+ # Conclusion-
+ Using the above mention ways we analysed our knowledge. It was a great project to work on
+   
+ # Team members-
+    SHREYA SINGH
+    NISHIT MISHRA
+    HARSH RANJAN
+    HARSH SHAH
 
